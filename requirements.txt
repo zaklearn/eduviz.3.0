@@ -5,3 +5,4 @@ plotly
 scipy
 python-docx
 openpyxl
+statsmodels
